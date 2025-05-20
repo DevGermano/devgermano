@@ -7,16 +7,18 @@
 
 ---
 
-### <h1 aligh="center">🚀 LINGUAGENS</h1>
+<hr>
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" alt="MySQL"/>
+<h2 align="center">🚀 LINGUAGENS</h2>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" alt="Java"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" alt="MySQL"/>
 </p>
 
+<hr>
 ---
-
-### 📚 SOBRE MIM
 
 ### 🧠 SOBRE MIM
 
