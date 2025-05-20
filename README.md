@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, sou o DevGermano</h1>
+<h1 align="center">👋 OLÁ, MEU NOME É GERMANO CARLOS</h1>
 
 <p align="center">
   💻 Estudante de programação focado em <strong>Java</strong> e <strong>MySQL</strong><br>
@@ -7,7 +7,7 @@
 
 ---
 
-### 🚀 TECNOLOGIAS
+### <h1 aligh="center">🚀 LINGUAGENS</h1>
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" alt="Java"/>
